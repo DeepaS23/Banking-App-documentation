@@ -1,2 +1,2 @@
-* Used for Bold*
+*Used for Bold*
 ## *MarkDown Tutorial*
