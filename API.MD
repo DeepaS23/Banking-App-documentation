@@ -1,6 +1,6 @@
 ## Get Customers' Details
 Use this API to retrieve customer information.
-###Endpoint
+### Endpoint
 `GET/api/customer/{Customerid}`
 ### Example Request
 ```bash
